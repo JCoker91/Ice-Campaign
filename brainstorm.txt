@@ -16,6 +16,10 @@ Weather Conditions
 Night Time Effects
 - Change what kind of encounters there are
 
+Magic Items
+- Claw of the Wyrm Rune
+
+
 Base
 - Silent Coin Taproom
 
