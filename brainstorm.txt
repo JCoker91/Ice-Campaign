@@ -1,0 +1,37 @@
+3 one shots
+
+Included Mechanics:
+- Tracking
+- History/Studying
+- Language Comprehension
+- Traps
+- Lockpicking
+- Dark Vision
+- Sneaking
+
+Weather Conditions
+- Randomly Determined
+- Slows travel
+
+Night Time Effects
+- Change what kind of encounters there are
+
+Base
+- Silent Coin Taproom
+
+"The night has become a dangerous place. The people of the town do not leave their homes at night. The night is ruled by the darkness."
+
+Overarching Objective:
+- Put a stop to the endless winter.
+
+level 3
+- 
+
+level 5
+- Retrieve the dragonslaying weapons
+
+level 8
+- Defeat Hoarfrost
+Boss Hoarfrost the Albino Dragon
+
+Defeating the Dragon makes each adventurer a lord of an area
